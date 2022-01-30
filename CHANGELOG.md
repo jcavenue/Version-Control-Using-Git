@@ -14,7 +14,7 @@ Fixed– Any bugs or errors that have been fixed should be so noted
 - Security – This acts as an invitation to users who want to upgrade and avoid any software vulnerabilities
 
 ---
-## Date January 29, 2022 - v1.0.1
+## Date January 29, 2022 - v1.0.2
 
 - Added
 	
