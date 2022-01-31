@@ -24,7 +24,7 @@ The steps may help you if you're going to make big changes:
 ```
 [ FIX ] for bug fixes: mostly used in stable version but also valid if you are fixing a recent bug in development version;
 
-[ UPT ] - Update specifix file;
+[ UPT ] - Update specific file;
 
 [ REF ] for refactoring: when a feature is heavily rewritten;
 
