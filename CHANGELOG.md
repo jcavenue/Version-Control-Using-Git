@@ -15,7 +15,7 @@ In order to make all changelogs easier to use and read the following changes sho
 - Security – This acts as an invitation to users who want to upgrade and avoid any software vulnerabilities
 
 ---
-## Date February 2, 2022 - v1.0.3
+## Date February 1, 2022 - v1.0.3
 
 - Added
   - README.md - Add description and contributing guidelines.
