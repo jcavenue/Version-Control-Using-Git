@@ -7,19 +7,28 @@ In order to make all changelogs easier to use and read the following changes sho
 - Changed – To note any changes to the software’s existing functionality
 
 - Deprecated – To note any features that were once stable but are no longer and have thus been removed
-Fixed– Any bugs or errors that have been fixed should be so noted
+
+- Fixed – Any bugs or errors that have been fixed should be so noted
 
 - Removed – This notes any features that have been deleted and removed from the software
 
 - Security – This acts as an invitation to users who want to upgrade and avoid any software vulnerabilities
 
 ---
+## Date February 2, 2022 - v1.0.3
+
+- Added
+  - README.md - Add description and contributing guidelines.
+
+- Changed
+  - CONTRIBUTING.md - Update typo.
+  - README.md - Update description.
+---
 ## Date January 29, 2022 - v1.0.2
 
 - Added
-	
-	1. CONTRIBUTING.md - Add guidelines for contributing.
+  - CONTRIBUTING.md - Add guidelines for contributing.
 
-- Changes
-	- Delete testing file.md
+- Changed
+  - Delete testing file.md
 ---
